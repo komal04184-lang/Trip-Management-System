@@ -1,0 +1,10 @@
+# Backend
+tripmanagement-backend/target/
+tripmanagement-backend/.idea/
+
+# Frontend
+tripmanagement-frontend/node_modules/
+
+# OS / IDE
+.DS_Store
+*.log
